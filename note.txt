@@ -30,3 +30,5 @@ git pull拉取远程代码后与本地产生冲突
     git reset --hard
     git pull origin master
     直接回退到上一个版本
+
+git fetch + git merge = git pull
